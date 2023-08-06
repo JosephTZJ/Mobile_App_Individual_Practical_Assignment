@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/drawable/edittext_backgraound.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/drawable/edittext_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/drawable/rounded_button_bg.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/layout/history.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/layout/list_item.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/layout/tab_bar.xml" value="0.25" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/menu/custom_breakdown_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/menu/navigation_bar.xml" value="0.25" />
+        <entry key="..\:/Users/Joseph Tee/Desktop/Utar/Year 3 Sem 1/Mobile App Dev/Assignment/Individual Practical/Code/app/src/main/res/menu/navigation_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
